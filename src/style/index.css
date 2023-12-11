@@ -1,0 +1,43 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5371ff;
+}
+
+.centered-image {
+    display: block;
+    margin: auto; /* Centers the image horizontally */
+    position: absolute;
+    top: 50%; /* Centers the image vertically */
+    left: 50%;
+    transform: translate(-50%, -50%); /* Adjusts the positioning to center the image */
+
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    grid-row-gap: 50px; /* Spacing between grid items */
+    grid-column-gap: 200px;
+}
+
+.line-horizontal {
+    position: absolute;
+    top: 50%;
+    left: 25%; /* Start at 25% from the left to center the 50% width line */
+    width: 50%; /* Width is 50% of the viewport */
+    height: 3px; /* Line thickness */
+    background-color: black; /* Line color */
+}
+
+.line-vertical {
+    position: absolute;
+    left: 50%;
+    top: 25%; /* Start at 25% from the top to center the 50% height line */
+    height: 50%; /* Height is 50% of the viewport */
+    width: 3px; /* Line thickness */
+    background-color: black; /* Line color */
+}
