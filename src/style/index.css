@@ -4,7 +4,7 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #5371ff;
+    background-color: white;
 }
 
 .centered-image {
@@ -14,14 +14,14 @@ body, html {
     top: 50%; /* Centers the image vertically */
     left: 50%;
     transform: translate(-50%, -50%); /* Adjusts the positioning to center the image */
-
+    z-index: 5;
 }
 
 .grid-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr); /* 2 columns */
-    grid-row-gap: 50px; /* Spacing between grid items */
-    grid-column-gap: 200px;
+    grid-row-gap: 100px; /* Spacing between grid items */
+    grid-column-gap: 400px;
 }
 
 .line-horizontal {

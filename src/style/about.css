@@ -1,0 +1,18 @@
+.about-container {
+    text-align: center;
+    margin-top: 100px; /* Adjust as needed */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.about-container h1 {
+    font-size: 2em;
+    margin-bottom: 15px;
+    
+}
+
+.about-container p {
+    font-size: 1em;
+    max-width: 600px; /* Controls the width of the paragraph */
+    margin: 15px auto; /* Centers the paragraph */
+
+}
