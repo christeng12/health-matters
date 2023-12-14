@@ -1,0 +1,137 @@
+﻿[
+    {
+        "ServiceType": "MentalHealth",
+        "Provider": "Essence Advantage HMO",
+        "ResourceName": "St Louis Center for Cognitive Health",
+        "Street": "7711 Bonhomme Ave Ste 350",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63105"
+    },
+    {
+        "ServiceType": "MentalHealth",
+        "Provider": "Essence Advantage HMO",
+        "ResourceName": "Sonder Counseling LLC",
+        "Street": "230 Bemistone Ave Ste 1006",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63105"
+    },
+    {
+        "ServiceType": "MentalHealth",
+        "Provider": "Essence Advantage HMO",
+        "ResourceName": "Emergence Psychological Services",
+        "Street": "8000 Bonhomme Ave Suite 315",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63105"
+    },
+    {
+        "ServiceType": "MentalHealth",
+        "Provider": "Aetna",
+        "ResourceName": "St. Louis Behavioral Medicine Institute",
+        "Street": "1129 Macklind Avenue",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63110"
+    },
+    {
+        "ServiceType": "MentalHealth",
+        "Provider": "Aetna",
+        "ResourceName": "SLU University Hospital",
+        "Street": "1201 South Grand Blvd",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63110"
+    },
+    {
+        "ServiceType": "MentalHealth",
+        "Provider": "Aetna",
+        "ResourceName": "Provident Behavioral Health",
+        "Street": "2650 Olive Street",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63103"
+    },
+    {
+        "ServiceType": "MentalHealth",
+        "Provider": "Aetna",
+        "ResourceName": "Therapeutic Solutions LLC",
+        "Street": "680 Craig Road Suite 103",
+        "City": "Creve Couer",
+        "State": "MO",
+        "ZipCode": "63141"
+    },
+    {
+        "ServiceType": "MentalHealth",
+        "Provider": "Aetna",
+        "ResourceName": "Maryland Heights Center for Behavioral Health LLC",
+        "Street": "11100 Ayrshire Drive",
+        "City": "Maryland Heights",
+        "State": "MO",
+        "ZipCode": "63043"
+    },
+    {
+        "ServiceType": "MentalHealth",
+        "Provider": "Humana",
+        "ResourceName": "Mercy Clinic Adult Psychiatry LLC",
+        "Street": "1176 Town and Country Commons Dr",
+        "City": "Chesterfield",
+        "State": "MO",
+        "ZipCode": "63017"
+    },
+    {
+        "ServiceType": "MentalHealth",
+        "Provider": "Humana",
+        "ResourceName": "MID America Psychiatric Consultants LLC",
+        "Street": "6651 Chippewa St",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63109"
+    },
+    {
+        "ServiceType": "MentalHealth",
+        "Provider": "Humana",
+        "ResourceName": "Success Health System LLC",
+        "Street": "3334 S Grand Blvd",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63118"
+    },
+    {
+        "ServiceType": "MentalHealth",
+        "Provider": "Anthem",
+        "ResourceName": "St Louis Center for Cognitive Health",
+        "Street": "7711 Bonhomme Ave Ste 350",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63105"
+    },
+    {
+        "ServiceType": "MentalHealth",
+        "Provider": "Anthem",
+        "ResourceName": "Elemy",
+        "Street": "7777 Bonhomme Ave Ste 1800",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63105"
+    },
+    {
+        "ServiceType": "MentalHealth",
+        "Provider": "Anthem",
+        "ResourceName": "Wellness Alliance Counseling and Psychotherapy ",
+        "Street": "7710 Carondelet Ave Ste 304",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63106"
+    },
+    {
+        "ServiceType": "MentalHealth",
+        "Provider": "Anthem",
+        "ResourceName": "Sonder Counseling LLC",
+        "Street": "230 Bemistone Ave Ste 1006",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63105"
+    }
+]

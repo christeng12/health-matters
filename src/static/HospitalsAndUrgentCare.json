@@ -1,0 +1,218 @@
+﻿[
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "United Healthcare 003",
+        "ResourceName": "SSM Health",
+        "Street": "1027 Bellevue Ave Fl 4",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63117"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "United Healthcare 003",
+        "ResourceName": "SSM Health SLU Hospital",
+        "Street": "1201 S Grand Blvd",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63104"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "United Healthcare 003",
+        "ResourceName": "Mercy Hospital St Louis",
+        "Street": "6435 Chippewa St",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63109"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "United Healthcare 003",
+        "ResourceName": "Total Access Urgent Care",
+        "Street": "1005 S Big Bend Ave",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63117"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "United Healthcare 003",
+        "ResourceName": "SSM Health Urgent Care",
+        "Street": "6420 Clayton Rd",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63117"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Essence Advantage HMO",
+        "ResourceName": "Accuhealth Urgent Care",
+        "Street": "8612 Olive Blvd",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63132"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Essence Advantage HMO",
+        "ResourceName": "Total Access Urgent Care",
+        "Street": "1005 S Big Bend Ave",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63117"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Essence Advantage HMO",
+        "ResourceName": "SSM Health St Mary’s",
+        "Street": "6420 Clayton Rd",
+        "City": "Richmond Heights ",
+        "State": "MO",
+        "ZipCode": "63117"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Essence Advantage HMO",
+        "ResourceName": "Barnes Jewish Hospital",
+        "Street": "1 Barnes Jewish Hospital Plz",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63110"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Essence Advantage HMO",
+        "ResourceName": "SSM Health SLU Hospital",
+        "Street": "1201 S Grand Blvd",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63104"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Aetna",
+        "ResourceName": "Mercy Urgent Care",
+        "Street": "8321 Maryland Avenue",
+        "City": "Clayton",
+        "State": "MO",
+        "ZipCode": "63105"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Aetna",
+        "ResourceName": "Mercy Urgent Care",
+        "Street": "2015 Maplewood Commons Drive",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63143"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Aetna",
+        "ResourceName": "CenterPointe Hospital ",
+        "Street": "11477 Olde Cabin Road Suite 205",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63141"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Aetna",
+        "ResourceName": "Barnes Jewish Hospital",
+        "Street": "1 Barnes Jewish Hospital Plz",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63110"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Aetna",
+        "ResourceName": "SSM Health St Mary’s",
+        "Street": "6420 Clayton Rd",
+        "City": "Richmond Heights ",
+        "State": "MO",
+        "ZipCode": "63117"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Humana",
+        "ResourceName": "SSM Health Care St Louis St Joseph Hospital",
+        "Street": "1031 Bellevue Ave Ste 400",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63117"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Humana",
+        "ResourceName": "SSM Health St Mary’s",
+        "Street": "6420 Clayton Rd",
+        "City": "Richmond Heights ",
+        "State": "MO",
+        "ZipCode": "63117"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Humana",
+        "ResourceName": "Washington University School of Medicine",
+        "Street": "216 S Kingshighway Blvd, Fl 6",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63110"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Humana",
+        "ResourceName": "Care STL Health",
+        "Street": "5471 Dr Martin Luther King Dr",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63112"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Anthem",
+        "ResourceName": "SSM Health St Mary’s",
+        "Street": "6420 Clayton Rd",
+        "City": "Richmond Heights ",
+        "State": "MO",
+        "ZipCode": "63117"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Anthem",
+        "ResourceName": "Barnes Jewish Hospital",
+        "Street": "1 Barnes Jewish Hospital Plz",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63110"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Anthem",
+        "ResourceName": "SSM Health SLU Hospital",
+        "Street": "1201 S Grand Blvd",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63104"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Anthem",
+        "ResourceName": "Missouri Baptist Medical Center",
+        "Street": "9450 Manchester Rd",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63119"
+    },
+    {
+        "ServiceType": "HospitalsAndUrgentCare",
+        "Provider": "Anthem",
+        "ResourceName": "St. Luke’s Urgent Care Center ",
+        "Street": "8857 Ladue Rd Ste A ",
+        "City": "St. Louis ",
+        "State": "MO",
+        "ZipCode": "63124"
+    }
+]

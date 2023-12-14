@@ -1,0 +1,221 @@
+﻿[
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "United Healthcare 003",
+        "ResourceName": "CVS MinuteClinic ",
+        "Street": "8101 Clayton Rd",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63117",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "United Healthcare 003",
+        "ResourceName": "SSM Health Express Clinic",
+        "Street": "13992 Manchester Rd",
+        "City": "Ballwin",
+        "State": "MO",
+        "ZipCode": "63011",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "United Healthcare 003",
+        "ResourceName": "National Services - Pharmacy ",
+        "Street": "",
+        "City": "",
+        "State": "",
+        "ZipCode": "",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Essence Advantage HMO",
+        "ResourceName": "Millbrook Pharmacy",
+        "Street": "7010 Pershing Ave",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63130",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Essence Advantage HMO",
+        "ResourceName": "Quadrangle Pharamacy LLC",
+        "Street": "6643 Shepley Dr ",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63105",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Essence Advantage HMO",
+        "ResourceName": "Medical Arts Clayton Pharmacy",
+        "Street": "7710 Carondelet Ave Ste 125",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63105",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Essence Advantage HMO",
+        "ResourceName": "Walmart Pharmacy",
+        "Street": "1900 Maplewood Commons Dr",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63143",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Essence Advantage HMO",
+        "ResourceName": "Mercy Pharmacy",
+        "Street": "8450 Eager Rd",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63144",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Aetna",
+        "ResourceName": "CVS Pharmacy",
+        "Street": "6211 Delmar Blvd",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63130",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Aetna",
+        "ResourceName": "CVS Pharmacy",
+        "Street": "8101 Clayton Rd",
+        "City": "Clayton",
+        "State": "MO",
+        "ZipCode": "63117",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Aetna",
+        "ResourceName": "CVS Pharmacy",
+        "Street": "7470 Manchester Rd",
+        "City": "Maplewood",
+        "State": "MO",
+        "ZipCode": "63143",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Aetna",
+        "ResourceName": "CVS Pharmacy",
+        "Street": "8867 Ladue Rd",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63124",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Aetna",
+        "ResourceName": "Mercy Pharmacy",
+        "Street": "8450 Eager Rd",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63144",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Humana",
+        "ResourceName": "Millbrook Pharmacy",
+        "Street": "7010 Pershing Ave",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63130",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Humana",
+        "ResourceName": "Costco Pharmacy",
+        "Street": "8685 Olive Blvd",
+        "City": "University City",
+        "State": "MO",
+        "ZipCode": "63132",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Humana",
+        "ResourceName": "BJC Home Care Services Pharmacy",
+        "Street": "1935 Belt Way",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63114",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Humana",
+        "ResourceName": "Peoples Health Center Pharmacy",
+        "Street": "5701 Delmar Blvd",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63112",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Humana",
+        "ResourceName": "SSM Health Pharmacy",
+        "Street": "1035 Bellevue Ave",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63117",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Anthem",
+        "ResourceName": "Coram CVS/Specialty Infusion Services",
+        "Street": "8248 Lackland Rd Ste 101",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63114",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Anthem",
+        "ResourceName": "Option Care",
+        "Street": "535 Axminister Dr",
+        "City": "Fenton",
+        "State": "MO",
+        "ZipCode": "63026",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Anthem",
+        "ResourceName": "BJC Home Care Services Pharmacy",
+        "Street": "1935 Belt Way",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63114",
+        "": ""
+    },
+    {
+        "ServiceType": "PharmaciesAndTesting",
+        "Provider": "Anthem",
+        "ResourceName": "Optum Infusion Services 501 Inc",
+        "Street": "1867 Lackland Hill Pkwy ",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63146"
+    }
+]

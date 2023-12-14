@@ -12,10 +12,10 @@ const IndexPage = () => {
       <div className="line-vertical"></div> */}
       <a href="https://www.healthmattersinsurance.com/"><img src={logo} className="centered-image"></img></a>
       <div className="grid-container">
-              <Bubble title="Hospitals & Urgent Care"/>
-              <Bubble title="Community Engagement"/>
-              <Bubble title="Pharmacies & Testing"/>
-              <Bubble title="Mental Health"/>
+              <Bubble title="Hospitals & Urgent Care" type="HospitalsAndUrgentCare"/>
+              <Bubble title="Community Engagement" type="CommunityEngagement"/>
+              <Bubble title="Pharmacies & Testing" type="PharmaciesAndTesting"/>
+              <Bubble title="Mental Health" type="MentalHealth"/>
       </div>
     </div>
   )
