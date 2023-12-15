@@ -34,34 +34,6 @@ const Bubble = ({title, type}) => {
         padding: '8px',
         textAlign: 'left',
       };
-      
-
-    function renderTable(data) {
-        const filteredData = data.filter(item => item.ServiceType === type);
-        console.log(filteredData);
-
-        return (
-            <table style={tableStyle}>
-            <thead>
-                <tr>
-                <th style={cellStyle}>Provider</th>
-                <th style={cellStyle}>Resource</th>
-                <th style={cellStyle}>Address</th>
-                </tr>
-            </thead>
-            <tbody>
-                {filteredData.map((item, index) => (
-                <tr key={index}>
-                    <td style={cellStyle}>{item.Provider}</td>
-                    <td style={cellStyle}>{item.ResourceName}</td>
-                    <td style={cellStyle}>{`${item.Street}, ${item.City}, ${item.State} ${item.ZipCode}`}</td>
-                    
-                </tr>
-                ))}
-            </tbody>
-            </table>
-        );
-    }
 
     const popupContainerStyle = {
         position: 'fixed',
@@ -121,11 +93,11 @@ const Bubble = ({title, type}) => {
                         <div style={{ width: '80px' }} /> {/* Placeholder to balance the layout */}
                     </div>
                     {<div style={gridContainerStyle}>
-                        <ProviderCard imageUrl={united} title="United Healthcare" service={type} />
-                        <ProviderCard imageUrl={aetna} title="Aetna" service={type}/>
-                        <ProviderCard imageUrl={essence} title="Essence" service={type}/>
-                        <ProviderCard imageUrl={humana} title="Humana" service={type}/>
-                        <ProviderCard imageUrl={anthem} title="Anthem" service={type}/>
+                        <ProviderCard imageUrl={united} provider="United Healthcare" service={type} />
+                        <ProviderCard imageUrl={aetna} provider="Aetna" service={type}/>
+                        <ProviderCard imageUrl={essence} provider="Essence" service={type}/>
+                        <ProviderCard imageUrl={humana} provider="Humana" service={type}/>
+                        <ProviderCard imageUrl={anthem} provider="Anthem" service={type}/>
                     </div>}
                 </div>
             )}

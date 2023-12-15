@@ -1,13 +1,11 @@
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
+import { navigate } from "gatsby"
 
 
-const ProviderCard = ({ imageUrl, title, service }) => {
-
-  const navigate = useNavigate();
+const ProviderCard = ({ imageUrl, provider, service }) => {
 
   const handleClick = () => {
-    navigate(`/services/${title}/${service}`);
+    navigate('/services/',{ state: { provider, service } });
   };
 
   const cardStyle = {
@@ -66,7 +64,7 @@ const ProviderCard = ({ imageUrl, title, service }) => {
     >
       <img src={imageUrl} alt="Card image" style={imageStyle} />
       <div style={overlayStyle}>
-          <div style={titleStyle}>{title}</div>
+          <div style={titleStyle}>{provider}</div>
       </div>
     </div>
   );

@@ -1,16 +1,44 @@
 import React from 'react';
-import { useParams } from 'react-router-dom';
+import NavBar from './navbar';
+import ServiceCard from './serviceCard';
+import compiledData from '../static/compiled.json';
+import { useEffect } from "react"
 
-const Services = () => {
-  const { title, type } = useParams();
+const Services = ({location}) => {
+    const { provider, service } = location.state || {};
+    const filteredData = compiledData.filter(item => 
+        item.ServiceType === service && 
+        item.Provider.toLowerCase().includes(provider.toLowerCase())
+    );
+    console.log(filteredData);
 
-  return (
-    <div>
-      <h1>{title}</h1>
-      <p>Type: {type}</p>
-      {/* ... rest of your service page content */}
-    </div>
-  );
+    // CSS style for horizontal scrolling
+    const horizontalScrollStyle = {
+        display: 'flex',
+        flexDirection: 'row',
+        overflowX: 'auto',
+        paddingLeft: '500px', // Increased horizontal padding
+        gap: '10px',
+        alignItems: 'center', // Ensure cards are aligned centrally vertically
+        height: '100%',
+};
+
+    function renderTable(data) {
+        return (
+            <div style={horizontalScrollStyle}>
+                {data.map((item, index) => (
+                    <ServiceCard key={index} service={item.ResourceName} location={`${item.Street}, ${item.City}, ${item.State} ${item.ZipCode}`} />
+                ))}
+            </div>
+        );
+    }
+
+    return (
+        <div>
+            <NavBar />
+            {renderTable(filteredData)}
+        </div>
+    );
 };
 
 export default Services;
