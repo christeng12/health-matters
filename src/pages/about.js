@@ -1,5 +1,5 @@
 import * as React from 'react'
-import NavBar from "./navbar";
+import NavBar from '../components/navbar.js';
 import '../style/about.css';
 import video from '../static/about.mp4';
 

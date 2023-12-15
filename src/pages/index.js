@@ -1,6 +1,6 @@
 import * as React from "react"
-import Bubble from "./bubble"
-import NavBar from "./navbar";
+import Bubble from "../components/bubble.js"
+import NavBar from "../components/navbar.js";
 import '../style/index.css';
 import logo from '../static/logo.png';
 

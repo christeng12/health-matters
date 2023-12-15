@@ -1,5 +1,5 @@
 import React from 'react';
-import NavBar from './navbar';
+import NavBar from '../components/navbar.js';
 import ServiceCard from '../components/serviceCard.js';
 import compiledData from '../static/compiled.json';
 import { useEffect } from "react"
