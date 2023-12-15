@@ -1,6 +1,6 @@
 import React from 'react';
 import NavBar from './navbar';
-import ServiceCard from './serviceCard';
+import ServiceCard from '../static/components/serviceCard.js';
 import compiledData from '../static/compiled.json';
 import { useEffect } from "react"
 
