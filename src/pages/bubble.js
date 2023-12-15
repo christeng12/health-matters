@@ -2,7 +2,7 @@ import { PromptSummaryFilterSensitiveLog } from '@aws-sdk/client-connect';
 import React, { useState } from 'react';
 import '../style/bubble.css';
 import compiledData from '../static/compiled.json';
-import ProviderCard from '../static/components/providerCard.js';
+import ProviderCard from './providerCard.js';
 import sample_logo from '../static/logos/sample.png';
 import united from '../static/logos/united.png';
 import aetna from '../static/logos/aetna.png';

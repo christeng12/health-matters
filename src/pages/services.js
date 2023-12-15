@@ -1,11 +1,13 @@
 import React from 'react';
 import NavBar from './navbar';
-import ServiceCard from '../static/components/serviceCard.js';
+import ServiceCard from '../components/serviceCard.js';
 import compiledData from '../static/compiled.json';
 import { useEffect } from "react"
 
 const Services = ({location}) => {
-    const { provider, service } = location.state || {};
+    const provider = location.state?.provider || '';
+    const service = location.state?.service || '';
+
     const filteredData = compiledData.filter(item => 
         item.ServiceType === service && 
         item.Provider.toLowerCase().includes(provider.toLowerCase())
@@ -27,7 +29,11 @@ const Services = ({location}) => {
         return (
             <div style={horizontalScrollStyle}>
                 {data.map((item, index) => (
-                    <ServiceCard key={index} service={item.ResourceName} location={`${item.Street}, ${item.City}, ${item.State} ${item.ZipCode}`} />
+                    <ServiceCard 
+                    key={index} 
+                    service={item.ResourceName} 
+                    location={`${item.Street}, ${item.City}, ${item.State} ${item.ZipCode}`} 
+                    index={index} />
                 ))}
             </div>
         );

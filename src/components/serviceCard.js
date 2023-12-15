@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const ServiceCard = ({ service, location }) => {
+const ServiceCard = ({service, location, index}) => {
     const [isOpen, setIsOpen] = useState(false);
 
     const collapsibleStyle = {
@@ -28,10 +28,10 @@ const ServiceCard = ({ service, location }) => {
 
     return (
         <div style={collapsibleStyle} onClick={toggleOpen}>
-        <h2>{service}</h2>
-        <div style={contentStyle}>
-            {location}
-        </div>
+            <h2>{service}</h2>
+            <div style={contentStyle}>
+                {location}
+            </div>
         </div>
     );
 };

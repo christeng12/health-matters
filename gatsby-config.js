@@ -7,4 +7,7 @@ module.exports = {
     siteUrl: `https://www.yourdomain.tld`,
   },
   plugins: [],
+  flags: {
+    DEV_SSR: true,
+  },  
 }
