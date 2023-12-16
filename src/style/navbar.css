@@ -1,7 +1,6 @@
 /* NavBar.css */
 .navbar {
-    background-color: #012c8c;
-    opacity: 50%;
+    background-color: #8894c4;
     overflow: hidden;
     position: fixed; /* Fixes the navbar to the top of the screen */
     top: 0;

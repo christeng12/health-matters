@@ -640,5 +640,77 @@
         "City": "St. Louis",
         "State": "MO",
         "ZipCode": "63146"
+    },
+    {
+        "ServiceType": "CommunityEngagement",
+        "Provider": "All",
+        "ResourceName": "Planet Fitness Central West End ",
+        "Street": "4061 Lindell Blvd",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63108"
+    },
+    {
+        "ServiceType": "CommunityEngagement",
+        "Provider": "All",
+        "ResourceName": "St Louis Workout",
+        "Street": "245 Union Blvd",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63109"
+    },
+    {
+        "ServiceType": "CommunityEngagement",
+        "Provider": "All",
+        "ResourceName": "Club Fitness Maplewood",
+        "Street": "3256 Laclede Station Road",
+        "City": "Maplewood",
+        "State": "MO",
+        "ZipCode": "63143"
+    },
+    {
+        "ServiceType": "CommunityEngagement",
+        "Provider": "All",
+        "ResourceName": "Fit City ",
+        "Street": "1601 S Jefferson Ave",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63104"
+    },
+    {
+        "ServiceType": "CommunityEngagement",
+        "Provider": "All",
+        "ResourceName": "Bayer YMCA",
+        "Street": "5555 Page Blvd",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63112"
+    },
+    {
+        "ServiceType": "CommunityEngagement",
+        "Provider": "All",
+        "ResourceName": "City Seniors Inc",
+        "Street": "4705 Ridgewood",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63116"
+    },
+    {
+        "ServiceType": "CommunityEngagement",
+        "Provider": "All",
+        "ResourceName": "Robert Fulton Senior Center",
+        "Street": "5521 Wells",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63112"
+    },
+    {
+        "ServiceType": "CommunityEngagement",
+        "Provider": "All",
+        "ResourceName": "St. Louis Activity Senior Center",
+        "Street": "5602 Arsenal Street",
+        "City": "St. Louis",
+        "State": "MO",
+        "ZipCode": "63139"
     }
 ]
