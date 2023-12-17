@@ -1,6 +1,7 @@
 import React from 'react';
 import NavBar from '../components/navbar.js';
 import ServiceCard from '../components/serviceCard.js';
+import ServiceMap from '../components/serviceMap.js';
 import compiledData from '../static/compiled.json';
 import { useEffect } from "react"
 
@@ -62,10 +63,27 @@ const Services = ({location}) => {
         );
     }
 
+    function renderMap(data) {
+        if (data.length === 0) {
+            return <div style={noServicesStyle}>No services found for this provider!</div>;
+        }
+
+        const locations = data.map(item => ({
+            location: `${item.Street}, ${item.City}, ${item.State} ${item.ZipCode}`.trim(),
+            service: item.ResourceName
+        }));
+        return (
+            <ServiceMap data={locations} />
+        );
+    }
+        
+
     return (
         <div>
             <NavBar />
-            {renderTable(filteredData)}
+            {/* {renderTable(filteredData)} */}
+            {renderMap(filteredData)}
+
         </div>
     );
 };
